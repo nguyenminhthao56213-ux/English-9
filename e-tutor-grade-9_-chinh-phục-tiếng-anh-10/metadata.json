@@ -1,0 +1,7 @@
+{
+  "name": "E-Tutor Grade 9: Chinh phục Tiếng Anh 10",
+  "description": "Gia sư AI thông minh chuyên biệt cho chương trình Tiếng Anh lớp 9 Global Success, hỗ trợ sửa lỗi ngữ pháp, luyện thi vào lớp 10 và tạo lộ trình học tập cá nhân hóa.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
